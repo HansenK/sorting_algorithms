@@ -1,0 +1,11 @@
+{
+  "name": "sorting_algorithms",
+  "version": "1.0.0",
+  "description": "A small project to demonstrate the different types of sorting algorithms and how they work",
+  "main": "index.js",
+  "author": "Thiago Klein",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
